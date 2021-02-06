@@ -1,5 +1,3 @@
 hare krishna !!!
 
-The commit to github is successful...
-
-thanks to github for help with repository
+validating repeated attempts to change file and update remote repository
